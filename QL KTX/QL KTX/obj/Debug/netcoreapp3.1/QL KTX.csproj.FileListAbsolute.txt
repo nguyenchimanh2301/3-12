@@ -1,0 +1,13 @@
+E:\QL KTX\QL KTX\QL KTX\obj\Debug\netcoreapp3.1\QL KTX.csprojAssemblyReference.cache
+E:\QL KTX\QL KTX\QL KTX\obj\Debug\netcoreapp3.1\QL KTX.AssemblyInfoInputs.cache
+E:\QL KTX\QL KTX\QL KTX\obj\Debug\netcoreapp3.1\QL KTX.AssemblyInfo.cs
+E:\QL KTX\QL KTX\QL KTX\obj\Debug\netcoreapp3.1\QL KTX.csproj.CoreCompileInputs.cache
+E:\QL KTX\QL KTX\QL KTX\bin\Debug\netcoreapp3.1\QL KTX.exe
+E:\QL KTX\QL KTX\QL KTX\bin\Debug\netcoreapp3.1\QL KTX.deps.json
+E:\QL KTX\QL KTX\QL KTX\bin\Debug\netcoreapp3.1\QL KTX.runtimeconfig.json
+E:\QL KTX\QL KTX\QL KTX\bin\Debug\netcoreapp3.1\QL KTX.runtimeconfig.dev.json
+E:\QL KTX\QL KTX\QL KTX\bin\Debug\netcoreapp3.1\QL KTX.dll
+E:\QL KTX\QL KTX\QL KTX\bin\Debug\netcoreapp3.1\QL KTX.pdb
+E:\QL KTX\QL KTX\QL KTX\obj\Debug\netcoreapp3.1\QL KTX.dll
+E:\QL KTX\QL KTX\QL KTX\obj\Debug\netcoreapp3.1\QL KTX.pdb
+E:\QL KTX\QL KTX\QL KTX\obj\Debug\netcoreapp3.1\QL KTX.genruntimeconfig.cache
